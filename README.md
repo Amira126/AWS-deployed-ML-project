@@ -13,4 +13,4 @@ This project covered the following steps:
 8. Hyperparameter Tuning.
 9. Prediction Pipeline.
 10. Flask web app creation.
-
+11. AWS Deployment.
