@@ -1,4 +1,13 @@
+requests
+bs4
 pandas
 numpy
+matplotlib
 seaborn
--e .
+scikit-learn
+catboost
+xgboost
+dill
+flask
+#we comment the hyphen e because we don't want to redo the whole setup
+#-e .
