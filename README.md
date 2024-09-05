@@ -1,5 +1,7 @@
 ## End to End Data Science Project ##
 
+AWS Deployment URL: http://studentperformance-env.eba-gxxwkkm8.ap-southeast-2.elasticbeanstalk.com/predictdata
+
 This project covered the following steps:
 1. Github & Code setup.
 2. Project Structure, Logging, and Exception Handling.
