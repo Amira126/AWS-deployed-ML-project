@@ -7,7 +7,7 @@ This project covered the following steps:
 2. Project Structure, Logging, and Exception Handling.
 3. Exploratory Notebooks for EDA (data cleaning and data visualization).
 4. Exploratory Notebooks for Model training.
-5. Data Ingestion.
+5. Data Preparation.
 6. Data Transformation pipelines.
 7. Model Training & Evaluation.
 8. Hyperparameter Tuning.
