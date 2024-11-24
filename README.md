@@ -1,5 +1,6 @@
 ## End to End Data Science Project ##
 
+Note: AWS URL is not working as the project is currently suspended.
 AWS Deployment URL: http://studentperformance-env.eba-gxxwkkm8.ap-southeast-2.elasticbeanstalk.com/predictdata
 
 This project covered the following steps:
